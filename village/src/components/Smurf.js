@@ -19,6 +19,10 @@ const Smurf = props => {
         <h3>{smurf.name}</h3>
         <strong>{smurf.height} tall</strong>
         <p>{smurf.age} smurf years old</p>
+        <div className='buttons'>
+          <button>Update</button> 
+          <button>Delete</button>
+        </div>
       </div>
     
   :
