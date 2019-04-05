@@ -1,3 +1,15 @@
 .App {
   text-align: center;
+  background-image: url("https://vignette.wikia.nocookie.net/smurfs/images/0/07/Smurf_Village_Comic_Books.jpg/revision/latest?cb=20120417231142");
+  background-size: cover;
+  background-position: center;
+}
+
+.nav {
+  margin-left: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: aqua;
+  text-decoration: none;
 }
